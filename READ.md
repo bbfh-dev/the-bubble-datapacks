@@ -10,6 +10,6 @@ Every custom item from this datapack called Bubble Item [`bubble_item`]
 
 
 # Bubble Bench
-> <img style="padding: 0 48%" src=".docs/bubble_bench.png"/>
+> <img style="padding: 0 48%" src="docs/bubble_bench.png"/>
 > <span>Crafting<br/>a</span>
 > 
