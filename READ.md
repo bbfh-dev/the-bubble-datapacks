@@ -10,6 +10,6 @@ Every custom item from this datapack called Bubble Item [`bubble_item`]
 
 
 # Bubble Bench
-> !(.docs/bubble_bench.png)
+> ![](.docs/bubble_bench.png)\
 > Crafting Bench
 > 
